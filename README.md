@@ -104,6 +104,11 @@ Do not expect linear speedups by increasing concurrency.
 
 ---
 
-## License
+## Contributions are welcome.  
+Bug reports, improvements, and documentation updates are appreciated.
 
+---
+
+## License
 MIT License
+
