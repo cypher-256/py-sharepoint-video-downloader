@@ -1,0 +1,3 @@
+Run video from SharePoint corporate account or OneDrive,
+In Chrome open Web inspector and in Network filter by videomanifest
+Copy this url here
